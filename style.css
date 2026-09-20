@@ -1,4 +1,6 @@
 .hero {
+    margin: 0;
+    padding: 0;
     background-image: url("images/background1.avif");
     height: 600px;
     background-repeat: no-repeat;
