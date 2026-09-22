@@ -1,7 +1,7 @@
 .hero {
     margin: 0;
     padding: 0;
-    background-image: url("images/background1.avif");
+    background-image: url("images/background2.jpg");
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,5 +14,5 @@
 }
 
 .two-row {
-    
+    display: grid;
 }
