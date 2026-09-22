@@ -13,6 +13,9 @@
         1px  1px 0 #FFF;
 }
 
-.two-row {
+.two-column {
     display: grid;
+    grid-template-columns: 4fr 5fr;
 }
+
+.
