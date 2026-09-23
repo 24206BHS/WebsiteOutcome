@@ -14,12 +14,18 @@
 }
 
 .two-column {
-    display: grid;
+    display: grid;  
     grid-template-columns: 1fr 1fr;
     gap: 5px;
     width: 90%;
     margin: auto;
     margin-top: 40px;
+}
+
+.three-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 75px
 }
 
 img{
