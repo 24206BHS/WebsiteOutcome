@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300..700&display=swap');
+
 .hero {
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     align-items: center;
@@ -7,7 +13,7 @@
     height: 1080px;
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: xx-large;
+    font-size: 50px;
     text-align: center;
     text-shadow: 
         -1px -1px 0 #FFF,  
